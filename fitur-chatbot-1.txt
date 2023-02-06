@@ -1,0 +1,8 @@
+Warna Utama : biru
+Warna Aksen : abu-abu
+
+Posisi : pojok kanan bawah
+Pilihan Menu :
+  - Informasi Umum
+  - Tips dan Trick
+  - Tanya Customer Service
