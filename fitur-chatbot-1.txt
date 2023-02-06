@@ -4,5 +4,7 @@ Warna Aksen : abu-abu
 Posisi : pojok kanan bawah
 Pilihan Menu :
   - Informasi Umum
-  - Tips dan Trick
+  - Tips dan Trik
   - Tanya Customer Service
+  
+Bahasa  : Indonesia
