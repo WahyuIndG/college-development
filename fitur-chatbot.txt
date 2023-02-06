@@ -1,10 +1,12 @@
-Warna Utama : biru
+Warna Utama : oren
 Warna Aksen : abu-abu
 
-Posisi : pojok kanan bawah
+Posisi  : pojok kanan bawah
+
 Pilihan Menu :
   - Informasi Umum
   - Tips dan Trik
+  - Pendaftaran
   - Tanya Customer Service
   
 Bahasa  : Indonesia
