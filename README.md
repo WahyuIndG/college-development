@@ -1,2 +1,2 @@
 # college-development
-repo that contain any thing according to college development program
+repo that contain any things according to college development program
